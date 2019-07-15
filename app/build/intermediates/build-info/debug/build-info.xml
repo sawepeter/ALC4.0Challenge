@@ -6,7 +6,7 @@
     density="hdpi"
     format="10"
     plugin-version="3.3.2"
-    timestamp="1563178648476"
+    timestamp="1563183715019"
     token="7664306514947741025"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -29,8 +29,9 @@
 
     <build
         build-mode="FULL"
-        timestamp="1563177899382"
-        verifier="FULL_BUILD_REQUESTED" >
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1563181738972"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
@@ -44,22 +45,22 @@
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -70,11 +71,38 @@
     </build>
     <build
         build-mode="COLD"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1563182920697"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
         ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1563178343138"
+        timestamp="1563183449376"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -82,7 +110,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1563178648476"
+        timestamp="1563183715019"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/instant-run-apk/debug/app-debug.apk"

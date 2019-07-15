@@ -10,7 +10,7 @@
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:text="Welcome to ALC 4.0"
-       android:textSize="35sp"
+       android:textSize="30sp"
        android:textStyle="bold"
        android:layout_margin="30dp"
        android:textAlignment="center"/>

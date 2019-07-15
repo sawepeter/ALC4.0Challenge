@@ -1,4 +1,4 @@
-#Mon Jul 15 11:06:22 EAT 2019
+#Mon Jul 15 12:09:52 EAT 2019
 base.0=/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/transforms/dexMerger/debug/9
 path.0=classes.dex
 renamed.0=classes.dex
