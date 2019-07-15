@@ -17,18 +17,20 @@
 
 
     <Button
+        android:id="@+id/about_alc"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="30dp"
+        android:layout_margin="20dp"
         android:text="About ALC"
         android:background="@drawable/round_bg"
         android:textStyle="bold"
         android:textSize="25sp"/>
 
     <Button
+        android:id="@+id/profile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="30dp"
+        android:layout_margin="20dp"
         android:background="@drawable/round_bg"
         android:text="MY PROFILE"
         android:textStyle="bold"

@@ -6,7 +6,7 @@
     density="hdpi"
     format="10"
     plugin-version="3.3.2"
-    timestamp="1563178460736"
+    timestamp="1563178648476"
     token="7664306514947741025"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -82,7 +82,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1563178460736"
+        timestamp="1563178648476"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/devsawe/clientprojects/Androidprojects/Okinyi/ALCChallenge/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
